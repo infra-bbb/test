@@ -1,2 +1,4 @@
+print('this file was created by user1')
+
 user = 'user1'
-print(f'this program was created by {user}')
+print(f'this message was written by {user}')
