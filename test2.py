@@ -1,5 +1,4 @@
-print('this file was created by master')
+print('this file was created by user1')
 
 user = 'user1'
 print(f'this message was written by {user}')
-
