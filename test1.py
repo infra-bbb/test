@@ -7,3 +7,4 @@ print('this is new message from user1')
 
 print('new messaage')
 print('this is old letter')
+print('reset test')
